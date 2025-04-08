@@ -16,3 +16,4 @@ Charts Requirement
 3.	Top 10 Total Vehicles by Make
 4.	Total Vehicles by CAFV Eligibility
 5.	Total Vehicles by Model
+Dashboard--![Electric Vehicle Dashboard](https://github.com/user-attachments/assets/d5020749-f1a1-4f64-b0d7-828f34948734)
