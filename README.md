@@ -20,12 +20,16 @@ Dashboard--![Electric Vehicle Dashboard](https://github.com/user-attachments/ass
 
 Project insight:
 
-1.after analysis and visualization Tesla become a Top in Electric car making domain.
+1.after analysis and visualization Tesla become a Top in Electric Vehicle making domain.
 
-2. In electric car market battery electric vehicle (BEV) are sold mostly cars as compare to Plug-in Hybrid Electric Vehicle (PHEV)
+
+2. In electric car market battery electric vehicle (BEV) are sold mostly cars as compare to Plug-in Hybrid Electric Vehicle (PHEV) 
+
 
 3.2023 seems to be good year for electric vehicle market .
+
    
 4.Model Y are become the famous and popular car model.
+
 
 5.Most of the Electric vehicle sold in washingtonDC.
