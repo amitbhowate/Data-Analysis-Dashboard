@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Tableau, creating multiple visualization to analyze the data. This process involved several stages, including data understanding ,data preprocessing ,data cleaning and data visualization.
+# Electric Vehicle Data-Analysis(Interactive Dashboard creating using Tableau)
+#Project objective 
+Big electric vehicle company want to analyze and Understand the overall landscape of electric vehicles and to assess the market's size and growth.
+
+
