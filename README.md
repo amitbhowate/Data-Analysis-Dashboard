@@ -17,3 +17,9 @@ Charts Requirement
 4.	Total Vehicles by CAFV Eligibility
 5.	Total Vehicles by Model
 Dashboard--![Electric Vehicle Dashboard](https://github.com/user-attachments/assets/d5020749-f1a1-4f64-b0d7-828f34948734)
+Project insight:
+1.after analysis and visualization Tesla become a Top in Electric car making domain.
+2. In electric car market battery electric vehicle (BEV) are sold mostly cars as compare to Plug-in Hybrid Electric Vehicle (PHEV) 
+3.2023 seems to be good year for electric vehicle market .
+4.Model Y are become the famous and popular car model.
+5.Most of the Electric vehicle sold in washingtonDC.
